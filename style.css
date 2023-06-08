@@ -125,8 +125,6 @@ map {
 }
 
 
-
-<nav class="navbar navbar-fixed-top">
 .navbar {
   display: flex;
   justify-content: space-between;
